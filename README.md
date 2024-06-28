@@ -16,22 +16,22 @@
 
 </div>
 
-ERPNext as a monolith includes the following areas for managing businesses:
+SimpelERP as a monolith includes the following areas for managing businesses:
 
-1. [Accounting](https://erpnext.com/open-source-accounting)
-1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
-1. [CRM](https://erpnext.com/open-source-crm)
-1. [Sales](https://erpnext.com/open-source-sales-purchase)
-1. [Purchase](https://erpnext.com/open-source-sales-purchase)
-1. [HRMS](https://erpnext.com/open-source-hrms)
-1. [Project Management](https://erpnext.com/open-source-projects)
-1. [Support](https://erpnext.com/open-source-help-desk-software)
-1. [Asset Management](https://erpnext.com/open-source-asset-management-software)
-1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
-1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
-1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
-1. [And More](https://erpnext.com/docs/user/manual/en/)
+1. [Accounting](https://simpelerp.com/features)
+1. [Warehouse Management](https://simpelerp.com/features)
+1. [CRM](https://simpelerp.com/features)
+1. [Sales](https://simpelerp.com/features)
+1. [Purchase](https://simpelerp.com/features)
+1. [HRMS](https://simpelerp.com/features)
+1. [Project Management](https://simpelerp.com/features)
+1. [Support](https://simpelerp.com/features)
+1. [Asset Management](https://simpelerp.com/features)
+1. [Quality Management](https://simpelerp.com/featurest)
+1. [Manufacturing](https://simpelerp.com/features)
+1. [Website Management](https://simpelerp.com/features)
+1. [Customize ERPNext](https://simpelerp.com/features)
+1. [And More](https://simpelerp.com/features)
 
 ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
