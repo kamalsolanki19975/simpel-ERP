@@ -2,9 +2,9 @@
     <a href="https://erpnext.com">
         <img src="[https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/erpnext-logo.png](https://simpelerp.com/assets/img/simpel_erp_60_height.png)" height="128">
     </a>
-    <h2>ERPNext</h2>
+    <h2>SimpelERP</h2>
     <p align="center">
-        <p>ERP made simple</p>
+        <p>Simplified Automation</p>
     </p>
 
 [![CI](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml/badge.svg?event=schedule)](https://github.com/frappe/erpnext/actions/workflows/server-tests-mariadb.yml)
